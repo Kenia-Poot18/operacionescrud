@@ -25,7 +25,7 @@ table.list
 td
 {
     border: 1px solid white;
-    text-align: left;
+    text-align: left; 
     padding: 8px 15px;
 
 }
